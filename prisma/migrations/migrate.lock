@@ -1,0 +1,7 @@
+# Prisma Migrate lockfile v1
+
+20200518235410-init
+20200601134900-add-sort-in-comment
+20200601135125-set-default-value-of-sort
+20200601135817-add-sort-in-comment
+20200601182722-sort-type-from-int-to-float
